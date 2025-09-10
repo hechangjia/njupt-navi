@@ -15,11 +15,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: 校园网
-    details: 校园网&校园卡&校园电话卡
-  - title: 学号
-    details: 学号详解
-  - title: 开学考
-    details: 详解开学考
+  - title: vitepress
+    details: feature1
+  - title: vitepress
+    details: feature2
+  - title: vitepress
+    details: feature3
 ---
 
+# Hello World!!!
+
+# Hello NJUPT!11
