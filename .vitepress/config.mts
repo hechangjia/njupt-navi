@@ -5,9 +5,9 @@ export default defineConfig({
   srcDir: "content",
 
 
-  head: [['link', { rel: 'icon', href: '/njupt-navi.hechangjia.cn/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/njupt-navi/favicon.ico' }]],
 
-  base: '/njupt-navi.hechangjia.cn/',
+  base: '/njupt-navi/',
   lang: 'zh-CN',
   title: "njupt-survival-guide",
   description: "njupt-survival-guide: a site designed for NJUPTer",
