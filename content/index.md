@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "njupt-survival-guide"
   text: "njupt-survival-guide: a site designed for NJUPTer"
-  tagline: My great project tagline
+  tagline: Hello Njupter!
   actions:
     - theme: brand
       text: Markdown Examples
@@ -23,6 +23,4 @@ features:
     details: feature3
 ---
 
-# Hello World!!!
-
-# Hello NJUPT!11
+# Hello World!
