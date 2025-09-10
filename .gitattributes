@@ -1,0 +1,2 @@
+# 统一文本文件使用 LF 换行符
+* text=auto eol=lf
