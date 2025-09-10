@@ -2,20 +2,14 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import Layout from './myLayout.vue' 
 import './style.css'
 
 export default {
-  base: '/njupt-navi/',
-  markdown:{
-    math: true
-  },
+  Layout,
   extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    })
+  enhanceApp({ app }) {
+
+
   },
-  enhanceApp({ app, router, siteData }) {
-    // ...
-  }
 } satisfies Theme
