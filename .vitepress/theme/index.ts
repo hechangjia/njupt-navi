@@ -5,6 +5,10 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
 export default {
+  base: '/njupt-navi/',
+  markdown:{
+    math: true
+  },
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
