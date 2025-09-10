@@ -6,7 +6,7 @@ export default defineConfig({
   
   head: [['link', { rel: 'icon', href: '/njupt-navi/favicon.ico' }]],
 
-  base: 'njupt-navi',
+  base: '/njupt-navi/',
   lang: 'zh-CN',
   title: "njupt-survival-guide",
   description: "njupt-survival-guide: a site designed for NJUPTer",
