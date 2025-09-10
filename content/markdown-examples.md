@@ -84,7 +84,7 @@ This is a details block.
 
 
 
-# 数学方程
+### 数学方程
 
 
 
